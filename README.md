@@ -1,6 +1,5 @@
 # Information
-We are trying to make an Minecraft Client completely Internal.
-With the goal to make it the best performence possible.
+Talon Client, the best client you'll probably ever use! We are very active in development (when not working on updating to new game versions).
 
 # Minecraft Version
-We will be trying to update as fast as possible to the next minecraft update as minecraft updates.
+We are attempting to implement an SDK system so you can use old versions! We will document how we made the client aswell!
